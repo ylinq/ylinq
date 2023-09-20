@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectTarget>
+    <TargetProject>d4dcd228-5fc4-4bbc-9204-f52353b9feff</TargetProject>
+    <FriendlyName>论文查重</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\86138\AppData\Local\Temp\论文查重_20230917.vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\86138\AppData\Local\Temp\论文查重_20230917(1).vsp</Filename>
+    </Report>
+  </Reports>
+  <UseVTune>false</UseVTune>
+</ProfilingTarget>
